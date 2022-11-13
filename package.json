@@ -1,0 +1,23 @@
+{
+  "name": "csc196w--assignment7---node",
+  "version": "1.0.0",
+  "description": "Homework Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenMunk/CSC196W--Assignment7---Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenMunk/CSC196W--Assignment7---Node/issues"
+  },
+  "homepage": "https://github.com/KenMunk/CSC196W--Assignment7---Node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
